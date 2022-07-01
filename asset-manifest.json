@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Emmanuel-Monyem-Portfolio_React/static/css/main.4b556cca.css",
+    "main.js": "/Emmanuel-Monyem-Portfolio_React/static/js/main.d54b3a3a.js",
+    "static/media/ME1.png": "/Emmanuel-Monyem-Portfolio_React/static/media/ME1.9329b4fdec4fce6edac9.png",
+    "static/media/avatar2.png": "/Emmanuel-Monyem-Portfolio_React/static/media/avatar2.b0884d00c692ac30346f.png",
+    "static/media/CV.pdf": "/Emmanuel-Monyem-Portfolio_React/static/media/CV.962c8ae5d09dea50aceb.pdf",
+    "static/media/native-pics.jpeg": "/Emmanuel-Monyem-Portfolio_React/static/media/native-pics.20c1af0832f3c864fc4f.jpeg",
+    "static/media/Business Card.PNG": "/Emmanuel-Monyem-Portfolio_React/static/media/Business Card.07e0cd4a7e27a088db09.PNG",
+    "index.html": "/Emmanuel-Monyem-Portfolio_React/index.html",
+    "main.4b556cca.css.map": "/Emmanuel-Monyem-Portfolio_React/static/css/main.4b556cca.css.map",
+    "main.d54b3a3a.js.map": "/Emmanuel-Monyem-Portfolio_React/static/js/main.d54b3a3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b556cca.css",
+    "static/js/main.d54b3a3a.js"
+  ]
+}
